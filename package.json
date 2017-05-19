@@ -1,0 +1,25 @@
+{
+  "name": "project_7_twitter",
+  "version": "1.0.0",
+  "description": "App that connects to and displays twitter activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acraven77/project_7.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Andrew Craven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acraven77/project_7/issues"
+  },
+  "homepage": "https://github.com/acraven77/project_7#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
