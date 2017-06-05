@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/acraven77/project_7#readme",
   "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
     "twit": "^2.2.5"
   }
 }
